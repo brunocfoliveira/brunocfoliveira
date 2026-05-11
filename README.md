@@ -19,12 +19,12 @@ I enjoy working on projects that connect data ingestion, transformation, storage
 
 ---
 
-## 🧰 Tech Stack & Tools
+## My Stack & Tools
 
 ### Data Engineering & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,docker,git,mongodb, pyspark" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,mongodb, pyspark" />
 </p>
 
 ### Currently Exploring
@@ -34,7 +34,7 @@ I enjoy working on projects that connect data ingestion, transformation, storage
 </p>
 
 **Other tools & concepts:**  
-`Python` · `SQL` · `ETL/ELT` · `Data Warehousing` · `Data Lakes` · `BigQuery` · `PostgreSQL` · `MongoDB` · `PySpark` · `Qdrant` · `pgvector`
+`Python` · `SQL` · `ETL/ELT` · `Data Warehousing` · `Data Lakes` · `BigQuery` · `PostgreSQL` · `MongoDB` · `PySpark` · `Qdrant` 
 
 ---
 
