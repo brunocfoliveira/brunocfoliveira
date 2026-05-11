@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there 👋, I'm Bruno Oliveira
 
 🎓 Applied Mathematics & Digital Technologies student at ISCTE-IUL  
