@@ -12,8 +12,7 @@ I'm currently building a strong portfolio focused on **Data Engineering**, **mod
 
 I enjoy working on projects that connect data ingestion, transformation, storage, orchestration and analytics — turning raw data into structured, useful and explainable insights.
 
-- 🔭 Currently working on data engineering portfolio projects  
-- 🌱 Learning more about **GCP, dbt, Airflow, Docker and Terraform**  
+- 🔭 Currently working on data engineering portfolio projects   
 - 🧠 Interested in **RAG systems, vector databases and AI for regulated environments**  
 - 🛠️ Building hands-on projects with a focus on clean documentation and real deployment  
 - 🎯 Goal: become a Data Engineer and grow into modern data platform roles  
@@ -35,7 +34,7 @@ I enjoy working on projects that connect data ingestion, transformation, storage
 </p>
 
 **Other tools & concepts:**  
-`dbt` · `Airflow` · `SQL` · `ETL/ELT` · `Data Warehousing` · `Data Lakes` · `BigQuery` · `PostgreSQL` · `MongoDB` · `PySpark` · `Qdrant` · `pgvector`
+`Python` · `SQL` · `SQL` · `ETL/ELT` · `Data Warehousing` · `Data Lakes` · `BigQuery` · `PostgreSQL` · `MongoDB` · `PySpark` · `Qdrant` · `pgvector`
 
 ---
 
