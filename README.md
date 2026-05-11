@@ -21,19 +21,6 @@ I enjoy working on projects that connect data ingestion, transformation, storage
 
 ## My Stack & Tools
 
-### Data Engineering & Analytics
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,mongodb, pyspark" />
-</p>
-
-### Currently Exploring
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=terraform,gcp,linux,bash" />
-</p>
-
-**Other tools & concepts:**  
 `Python` · `SQL` · `ETL/ELT` · `Data Warehousing` · `Data Lakes` · `BigQuery` · `PostgreSQL` · `MongoDB` · `PySpark` · `Qdrant` 
 
 ---
